@@ -5,6 +5,6 @@
 
 ## Getting Started
 
-Membuat aplikasi consume API dari:
+Membuat aplikasi consume API list sirkuit F1 dari:
 
 http://ergast.com/api/f1/circuits.json?limit=300
